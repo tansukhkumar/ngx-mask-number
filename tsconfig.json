@@ -11,6 +11,11 @@
     "noFallthroughCasesInSwitch": true,
     "skipLibCheck": true,
     "isolatedModules": true,
+    "paths": {
+      "ngx-mask-number": [
+        "./dist/ngx-mask-number"
+      ]
+    },
     "esModuleInterop": true,
     "sourceMap": true,
     "declaration": false,

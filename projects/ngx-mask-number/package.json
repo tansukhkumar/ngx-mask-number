@@ -1,0 +1,25 @@
+{
+  "name": "ngx-mask-number",
+  "version": "0.0.3",
+  "peerDependencies": {
+    "@angular/common": "^18.2.0",
+    "@angular/core": "^18.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false,
+  "keywords": [
+    "angular",
+    "ngx-mask-number",
+    "number-formatter",
+    "number-input",
+    "input-mask",
+    "intl",
+    "formatter",
+    "reactive-forms",
+    "angular18",
+    "currency",
+    "decimal"
+  ]
+}
