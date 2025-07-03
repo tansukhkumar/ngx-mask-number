@@ -21,6 +21,9 @@
 npm install ngx-mask-number
 
 ```
+## 💡 Live Demo
+[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://tansukhkumar.github.io/ngx-mask-number/)
+
 
 ## 🚀 Usage
 
