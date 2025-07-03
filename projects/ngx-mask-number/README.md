@@ -107,7 +107,7 @@ Because formatting numbers in Angular inputs is surprisingly tricky:
 
 Built-in number inputs don’t support formatting
 
-Libraries like ngx-mask format well, but don’t emit raw numbers
+🧩 Libraries like ngx-mask can format inputs and emit raw values, but they often suffer from cursor jumping and inconsistent behavior with decimals — especially in dynamic forms.
 
 This directive formats the input but gives you a clean raw value, ready for API use
 

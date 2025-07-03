@@ -1,6 +1,6 @@
 {
   "name": "ngx-mask-number",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "peerDependencies": {
     "@angular/common": "^18.2.0",
     "@angular/core": "^18.2.0"
@@ -21,6 +21,16 @@
     "locale",
     "currency",
     "forms",
-    "ngx-mask-number"
-  ]
+    "ngx-mask-number",
+    "angular-mask"
+  ],
+  "description": "Angular directive to mask number inputs for display while keeping raw numeric values in forms.",
+  "homepage": "https://tansukhkumar.github.io/ngx-mask-number/",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/tansukhkumar/ngx-mask-number"
+},
+"bugs": {
+  "url": "https://github.com/tansukhkumar/ngx-mask-number/issues"
+}
 }
